@@ -1,3 +1,9 @@
 [submodule "themes/hugo-dreams-plus"]
 	path = themes/hugo-dreams-plus
 	url = https://github.com/UtkarshVerma/hugo-dream-plus.git
+[submodule "themes/themes/hugo-coder"]
+	path = themes/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
